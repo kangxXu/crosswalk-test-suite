@@ -1,0 +1,10 @@
+name=test,test1234,1234,1234test," ","test test"," test","test ",_test,test_,te_st,"test!test","test#test","test$test","test%test","test&test","test@test","test*test",TEST,TEST123,123TEST,Test,Test123,123Test
+package=org.xwalk,org.xwalk1234,org.xwalk.test,org.xwalk.xwalk.test,org_.xwalk,org.xwalk_,org.xwa_lk,or_g.xwalk,org_.xw_alk,or_g.xw_alk,org_.xwalk_
+arch=x86
+mode=embedded,shared
+app-version=1.0.0,1,0,-1,test,1234test,test1234,TEST,Test,1234TEST,TEST1234,1234Test,Test1234,65535,1000000000000
+app-versionCode=1,2,-1,0,65535,1000000000000
+app-url=http://www.baidu.com,www.baidu.com,baidu.com,test,123,1234test,test1234,TEST,TEST1234,1234TEST,Test1234,1234Test
+description=test,1234,1234test,test1234,TEST,TEST1234,1234TEST,Test,Test1234,1234Test
+target-dir=./,../,apkdir
+permission=geolocation,Contacts,geolocation:Contacts,CONTACTS,contacts
