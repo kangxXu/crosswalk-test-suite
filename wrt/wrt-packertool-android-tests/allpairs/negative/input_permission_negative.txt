@@ -1,0 +1,7 @@
+name:intel
+package:org.xwalk.intel
+arch:x86
+mode:embedded
+app-url:http://www.baidu.com
+description:ApplicationDescription
+permission:ContactscommaGeolocation,contacts.geolocation,geolocations,contacts:,:contacts,!@#$%^&*,abccomma./{},Geolocation:UndefinedPermission1:UndefinedPermission2

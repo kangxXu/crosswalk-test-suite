@@ -1,0 +1,5 @@
+name:intel
+package:test,1234,1234test,org.Test,.,.xwalk,org.,org..,000org.xwalk,org000.xwalk,org.000xwalk,org.xwalk000,_org.xwalk,org._xwalk,org.xw!alk,org.xw@alk,org.xw#alk,org.xw%alk,org.xw^alk,org.xw&alk,org.xw*alk,org.xw'a'lk,org.xw++alk,org.xw>=alk,org.xw:alk,org.xw\\alk,org.xw<<>>alk,()[]{}.xwallk,包名.xwalk,orgcommaxwalk,org.1234test,org....xwalk,nullstring
+arch:x86
+mode:embedded
+app-url:http://www.intel.com

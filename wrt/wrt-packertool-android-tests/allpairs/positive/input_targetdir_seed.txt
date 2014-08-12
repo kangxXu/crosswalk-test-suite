@@ -1,0 +1,5 @@
+name:targetdir_test
+package:org.xwalk.intel
+arch:x86
+app-url:http://www.baidu.com
+target-dir:./,apkdir,/tmp,DEFAULT

@@ -1,0 +1,13 @@
+name--1:appname,000appname,app000name,APPNAME,AppName,1234,1200034,名字,*&^%!@#$%^&*(),:?.|<>,+-,()[]{},.appname,app.name,app_name,_appname,'appname',app'na'me,app<=name,<=appname,\\appname,app\\name,-appname,app-name,:appname,app:name,*appname,app*name,<<appname,app<<name,=appname,app=name
+name--2:APPNAME,appname,appname000,appname*,1234,appname.,appname:,appname_,'appname',appname<=,abcdefghijklmnopqrstuvwxyznnnnabcdefghijklmnopqrstuvwxyznnnnabcdefghijklmnopqrstuvwxyznnnnabcdefghij,appname\\,appname<<,appname=
+package:org.xwalk,org.xwalk.intel
+arch:x86,arm,default
+mode:embedded,shared,default
+app-version:1.1,1.0.0
+app-versionCode:1
+app-versionCodeBase:24
+app-url:http://www.baidu.com,http://www.nonexist.com
+permission:GEOLOCATION,geolocation:Contacts,geolocation,contacts:Contacts,default
+description:appdescription
+target-dir:./,apkdir,default
+orientation:landscape,portrait,default

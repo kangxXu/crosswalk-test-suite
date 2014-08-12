@@ -1,0 +1,960 @@
+Packertool1
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool3
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool4
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool5
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool6
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool7
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool8
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool9
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool10
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool11
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool12
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool13
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool14
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool15
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool16
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool17
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool18
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool19
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool20
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool21
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool22
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool23
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool24
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool25
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool26
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool27
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool28
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool29
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool30
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool31
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool32
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool33
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool34
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool35
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool36
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool37
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool38
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool39
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool40
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool41
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool42
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool43
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool44
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool45
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool46
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool47
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool48
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool49
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool50
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="6  1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool51
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool52
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool53
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xwalk" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xwalk1234" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool3
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool4
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xwalk.intel.test" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool5
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xw_alk" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool6
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xw alk" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool7
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="CONTACTS"
+--------------------------------
+Packertool8
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="geolocation:Contacts"
+--------------------------------
+Packertool9
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="geolocation"
+--------------------------------
+Packertool10
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="contacts:Contacts"
+--------------------------------
+Packertool11
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="contacts:geolocation:messaging:vibration"
+--------------------------------
+Packertool12
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission=""
+--------------------------------
+Packertool13
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool14
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool15
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool16
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool17
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool18
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool19
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool20
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool21
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool22
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool23
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool24
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool25
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool26
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool27
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool28
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool29
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool30
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool31
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool32
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool33
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool34
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool35
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool36
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool37
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool38
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool39
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool40
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool41
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool42
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool43
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool44
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool45
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool46
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool47
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool48
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool49
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool50
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool51
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool52
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool53
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool54
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool55
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool56
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool57
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool58
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool59
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool60
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool61
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool62
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool63
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool64
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool65
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool66
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool67
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool68
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool69
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool70
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool71
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool72
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool73
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool74
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool75
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool76
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool77
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool78
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool79
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool80
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool81
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool82
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool83
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool84
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool85
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool86
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool87
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool88
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool89
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool90
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool91
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool92
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool93
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool94
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool95
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool96
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool97
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool98
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool99
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool100
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool101
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool102
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool103
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool104
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool105
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool106
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.0.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool107
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool108
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool109
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool110
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool111
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.0.1" --app-versionCode="1" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool112
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.noexist.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool113
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool114
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --app-version="1.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool115
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool116
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool117
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool118
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool119
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool120
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="http://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool121
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool122
+--------------------------------
+python make_apk.py --name=" z" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool123
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool124
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool125
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool126
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool127
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool128
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool129
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool130
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool131
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool132
+--------------------------------
+python make_apk.py --name=".b" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool133
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool134
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool135
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool136
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool137
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool138
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool139
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool140
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool141
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool142
+--------------------------------
+python make_apk.py --name="*<q>~!@#$%^&*()-+={}[]:';<>/" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool143
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool144
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool145
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool146
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool147
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool148
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool149
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool150
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool151
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool152
+--------------------------------
+python make_apk.py --name="\\\n" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool153
+--------------------------------
+python make_apk.py --name="abcd" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool154
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool155
+--------------------------------
+python make_apk.py --name="123" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool156
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool157
+--------------------------------
+python make_apk.py --name="x_y" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool158
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool159
+--------------------------------
+python make_apk.py --name="-" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool160
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool161
+--------------------------------
+python make_apk.py --name="汉字" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool162
+--------------------------------
+python make_apk.py --name="qwertyuiopasdfghjklzxcvbnm" --package="org.xwalk.intel" --arch="x86" --mode="shared" --app-version="1.0.1" --app-versionCode="61234567" --app-versionCodeBase="24" --app-url="https://www.baidu.com" --permission="GEOLOCATION" --description="appdescription"
+--------------------------------
+Packertool163
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="./"
+--------------------------------
+Packertool164
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="apkdir"
+--------------------------------
+Packertool165
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="/tmp"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xwalk" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name="package_test" --package="org.xwalk1234" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="./"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="apkdir"
+--------------------------------
+Packertool3
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="/tmp"
+--------------------------------
+Packertool4
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="./"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="./"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="apkdir"
+--------------------------------
+Packertool3
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="/tmp"
+--------------------------------
+Packertool4
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="./"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="apkdir"
+--------------------------------
+Packertool3
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --target-dir="/tmp"
+--------------------------------
+Packertool4
+--------------------------------
+python make_apk.py --name="targetdir_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com"
+--------------------------------
+Packertool1
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="CONTACTS"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="geolocation:Contacts"
+--------------------------------
+Packertool3
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="geolocation"
+--------------------------------
+Packertool4
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="contacts:Contacts"
+--------------------------------
+Packertool5
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission="contacts:geolocation:messaging:vibration"
+--------------------------------
+Packertool6
+--------------------------------
+python make_apk.py --name="permission_test" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.baidu.com" --permission=""
+--------------------------------

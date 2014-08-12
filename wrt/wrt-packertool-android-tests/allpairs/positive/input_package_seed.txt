@@ -1,0 +1,4 @@
+name:package_test
+package:org.xwalk,org.xwalk1234,org.xwalk.intel,org.xwalk.intel.test,org.xw_alk,org.xw000alk
+arch:x86
+app-url:http://www.baidu.com

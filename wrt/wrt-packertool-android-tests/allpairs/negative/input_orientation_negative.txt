@@ -1,0 +1,6 @@
+name:intel
+package:org.xwalk.intel
+arch:x86
+app-url:http://www.intel.com
+mode:embedded
+orinetation:undefined,Landscape,000landscape

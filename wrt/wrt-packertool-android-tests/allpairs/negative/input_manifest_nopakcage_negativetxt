@@ -1,0 +1,3 @@
+arch:x86
+mode:embedded
+manifest:$PWD/resource/norm/manifest.json

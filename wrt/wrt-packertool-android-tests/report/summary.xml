@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./style/summary.xsl"?>
+<result_summary plan_name=""><environment build_id="" cts_version="" device_id="" device_model="" device_name="" host="" manufacturer="" resolution="" screen_size="" /><summary><start_at>2014-08-14 09:31:01</start_at><end_at>2014-08-14 09:35:09</end_at></summary><suite name="wrt-packertool-android-tests"><total_case>75</total_case><pass_case>75</pass_case><pass_rate>100.0</pass_rate><fail_case>0</fail_case><fail_rate>0.0</fail_rate><block_case /><block_rate /><na_case /><na_rate /></suite></result_summary>

@@ -1,0 +1,1396 @@
+Packertool1
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="undefined"
+--------------------------------
+Packertool2
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="abc,@%.&:001:[]"
+--------------------------------
+Packertool3
+--------------------------------
+python make_apk.py --name="intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool4
+--------------------------------
+python make_apk.py --name="intel" --package="test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool5
+--------------------------------
+python make_apk.py --name="intel" --package="1234" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool6
+--------------------------------
+python make_apk.py --name="intel" --package="1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool7
+--------------------------------
+python make_apk.py --name="intel" --package="org.Test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool8
+--------------------------------
+python make_apk.py --name="intel" --package="." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool9
+--------------------------------
+python make_apk.py --name="intel" --package=".xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool10
+--------------------------------
+python make_apk.py --name="intel" --package="org." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool11
+--------------------------------
+python make_apk.py --name="intel" --package="org.." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool12
+--------------------------------
+python make_apk.py --name="intel" --package=" org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool13
+--------------------------------
+python make_apk.py --name="intel" --package="org .xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool14
+--------------------------------
+python make_apk.py --name="intel" --package="org. xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool15
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk " --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool16
+--------------------------------
+python make_apk.py --name="intel" --package="_org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool17
+--------------------------------
+python make_apk.py --name="intel" --package="org._xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool18
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw!alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool19
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw@alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool20
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw#alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool21
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw%alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool22
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw^alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool23
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw&alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool24
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw*alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool25
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw'a'lk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool26
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw++alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool27
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw>=alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool28
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw:alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool29
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw\\alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool30
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw<<>>alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool31
+--------------------------------
+python make_apk.py --name="intel" --package="()[]{}.xwallk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool32
+--------------------------------
+python make_apk.py --name="intel" --package="包名.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool33
+--------------------------------
+python make_apk.py --name="intel" --package="org,xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool34
+--------------------------------
+python make_apk.py --name="intel" --package="org.1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool35
+--------------------------------
+python make_apk.py --name="intel" --package="org....xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool36
+--------------------------------
+python make_apk.py --name="intel" --package="nullstring" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool37
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="/non-exist/manifest.json"
+--------------------------------
+Packertool38
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noapplaunch/manifest.json"
+--------------------------------
+Packertool39
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noname/manifest.json"
+--------------------------------
+Packertool40
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noversion/manifest.json"
+--------------------------------
+Packertool41
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="undefined"
+--------------------------------
+Packertool42
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="Landscape"
+--------------------------------
+Packertool43
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation=" landscape"
+--------------------------------
+Packertool44
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="$PWD/resource/norm/图片.png"
+--------------------------------
+Packertool45
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="/non-exist/icon.png"
+--------------------------------
+Packertool46
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="X86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool47
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch=" x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool48
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="undefined" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool49
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="Embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool50
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode=" embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool51
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="undefined" --app-url="http://www.intel.com"
+--------------------------------
+Packertool52
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --app-versionCode="1,a"
+--------------------------------
+Packertool53
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/norm/" --app-local-path="noexist.html"
+--------------------------------
+Packertool54
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Contacts,Geolocation"
+--------------------------------
+Packertool55
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts.geolocation"
+--------------------------------
+Packertool56
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="geolocations"
+--------------------------------
+Packertool57
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts:"
+--------------------------------
+Packertool58
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission=":contacts"
+--------------------------------
+Packertool59
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="!@#$%^&*"
+--------------------------------
+Packertool60
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="abc,./{}"
+--------------------------------
+Packertool61
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Geolocation:UndefinedPermission1:UndefinedPermission2"
+--------------------------------
+Packertool62
+--------------------------------
+python make_apk.py --arch="x86" --mode="embedded" --manifest="$PWD/resource/norm/manifest.json"
+--------------------------------
+Packertool63
+--------------------------------
+python make_apk.py --xpk="/non-exist/app.xpk"
+--------------------------------
+Packertool64
+--------------------------------
+python make_apk.py --xpk="$PWD/resource/norm/app.xpk"
+--------------------------------
+Packertool65
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/packer_tool_minify_tests/" --app-local-path="index.html" --app-url="http://www.intel.com"
+--------------------------------
+Packertool66
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="'description'"
+--------------------------------
+Packertool67
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="~!@#$%^&*"
+--------------------------------
+Packertool68
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com" --app-versionCodeBase="a+b"
+--------------------------------
+Packertool69
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool70
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --undefinedOption="undefined"
+--------------------------------
+Packertool166
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="undefined"
+--------------------------------
+Packertool167
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="abc,@%.&:001:[]"
+--------------------------------
+Packertool168
+--------------------------------
+python make_apk.py --name="intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool169
+--------------------------------
+python make_apk.py --name="intel" --package="test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool170
+--------------------------------
+python make_apk.py --name="intel" --package="1234" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool171
+--------------------------------
+python make_apk.py --name="intel" --package="1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool172
+--------------------------------
+python make_apk.py --name="intel" --package="org.Test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool173
+--------------------------------
+python make_apk.py --name="intel" --package="." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool174
+--------------------------------
+python make_apk.py --name="intel" --package=".xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool175
+--------------------------------
+python make_apk.py --name="intel" --package="org." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool176
+--------------------------------
+python make_apk.py --name="intel" --package="org.." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool177
+--------------------------------
+python make_apk.py --name="intel" --package=" org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool178
+--------------------------------
+python make_apk.py --name="intel" --package="org .xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool179
+--------------------------------
+python make_apk.py --name="intel" --package="org. xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool180
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk " --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool181
+--------------------------------
+python make_apk.py --name="intel" --package="_org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool182
+--------------------------------
+python make_apk.py --name="intel" --package="org._xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool183
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw!alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool184
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw@alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool185
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw#alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool186
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw%alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool187
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw^alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool188
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw&alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool189
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw*alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool190
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw'a'lk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool191
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw++alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool192
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw>=alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool193
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw:alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool194
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw\\alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool195
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw<<>>alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool196
+--------------------------------
+python make_apk.py --name="intel" --package="()[]{}.xwallk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool197
+--------------------------------
+python make_apk.py --name="intel" --package="包名.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool198
+--------------------------------
+python make_apk.py --name="intel" --package="org,xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool199
+--------------------------------
+python make_apk.py --name="intel" --package="org.1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool200
+--------------------------------
+python make_apk.py --name="intel" --package="org....xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool201
+--------------------------------
+python make_apk.py --name="intel" --package="nullstring" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool202
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="/non-exist/manifest.json"
+--------------------------------
+Packertool203
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noapplaunch/manifest.json"
+--------------------------------
+Packertool204
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noname/manifest.json"
+--------------------------------
+Packertool205
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noversion/manifest.json"
+--------------------------------
+Packertool206
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="undefined"
+--------------------------------
+Packertool207
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="Landscape"
+--------------------------------
+Packertool208
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation=" landscape"
+--------------------------------
+Packertool209
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="$PWD/resource/norm/图片.png"
+--------------------------------
+Packertool210
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="/non-exist/icon.png"
+--------------------------------
+Packertool211
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="X86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool212
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch=" x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool213
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="undefined" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool214
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="Embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool215
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode=" embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool216
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="undefined" --app-url="http://www.intel.com"
+--------------------------------
+Packertool217
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --app-versionCode="1,a"
+--------------------------------
+Packertool218
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/norm/" --app-local-path="noexist.html"
+--------------------------------
+Packertool219
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Contacts,Geolocation"
+--------------------------------
+Packertool220
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts.geolocation"
+--------------------------------
+Packertool221
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="geolocations"
+--------------------------------
+Packertool222
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts:"
+--------------------------------
+Packertool223
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission=":contacts"
+--------------------------------
+Packertool224
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="!@#$%^&*"
+--------------------------------
+Packertool225
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="abc,./{}"
+--------------------------------
+Packertool226
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Geolocation:UndefinedPermission1:UndefinedPermission2"
+--------------------------------
+Packertool227
+--------------------------------
+python make_apk.py --arch="x86" --mode="embedded" --manifest="$PWD/resource/norm/manifest.json"
+--------------------------------
+Packertool228
+--------------------------------
+python make_apk.py --xpk="/non-exist/app.xpk"
+--------------------------------
+Packertool229
+--------------------------------
+python make_apk.py --xpk="$PWD/resource/norm/app.xpk"
+--------------------------------
+Packertool230
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/packer_tool_minify_tests/" --app-local-path="index.html" --app-url="http://www.intel.com"
+--------------------------------
+Packertool231
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="'description'"
+--------------------------------
+Packertool232
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="~!@#$%^&*"
+--------------------------------
+Packertool233
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com" --app-versionCodeBase="a+b"
+--------------------------------
+Packertool234
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool235
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --undefinedOption="undefined"
+--------------------------------
+Packertool5
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="undefined"
+--------------------------------
+Packertool6
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="abc,@%.&:001:[]"
+--------------------------------
+Packertool7
+--------------------------------
+python make_apk.py --name="intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool8
+--------------------------------
+python make_apk.py --name="intel" --package="test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool9
+--------------------------------
+python make_apk.py --name="intel" --package="1234" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool10
+--------------------------------
+python make_apk.py --name="intel" --package="1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool11
+--------------------------------
+python make_apk.py --name="intel" --package="org.Test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool12
+--------------------------------
+python make_apk.py --name="intel" --package="." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool13
+--------------------------------
+python make_apk.py --name="intel" --package=".xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool14
+--------------------------------
+python make_apk.py --name="intel" --package="org." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool15
+--------------------------------
+python make_apk.py --name="intel" --package="org.." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool16
+--------------------------------
+python make_apk.py --name="intel" --package=" org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool17
+--------------------------------
+python make_apk.py --name="intel" --package="org .xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool18
+--------------------------------
+python make_apk.py --name="intel" --package="org. xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool19
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk " --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool20
+--------------------------------
+python make_apk.py --name="intel" --package="_org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool21
+--------------------------------
+python make_apk.py --name="intel" --package="org._xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool22
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw!alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool23
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw@alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool24
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw#alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool25
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw%alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool26
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw^alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool27
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw&alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool28
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw*alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool29
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw'a'lk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool30
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw++alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool31
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw>=alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool32
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw:alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool33
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw\\alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool34
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw<<>>alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool35
+--------------------------------
+python make_apk.py --name="intel" --package="()[]{}.xwallk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool36
+--------------------------------
+python make_apk.py --name="intel" --package="包名.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool37
+--------------------------------
+python make_apk.py --name="intel" --package="org,xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool38
+--------------------------------
+python make_apk.py --name="intel" --package="org.1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool39
+--------------------------------
+python make_apk.py --name="intel" --package="org....xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool40
+--------------------------------
+python make_apk.py --name="intel" --package="nullstring" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool41
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="/non-exist/manifest.json"
+--------------------------------
+Packertool42
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noapplaunch/manifest.json"
+--------------------------------
+Packertool43
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noname/manifest.json"
+--------------------------------
+Packertool44
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noversion/manifest.json"
+--------------------------------
+Packertool45
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="undefined"
+--------------------------------
+Packertool46
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="Landscape"
+--------------------------------
+Packertool47
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation=" landscape"
+--------------------------------
+Packertool48
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="$PWD/resource/norm/图片.png"
+--------------------------------
+Packertool49
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="/non-exist/icon.png"
+--------------------------------
+Packertool50
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="X86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool51
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch=" x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool52
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="undefined" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool53
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="Embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool54
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode=" embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool55
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="undefined" --app-url="http://www.intel.com"
+--------------------------------
+Packertool56
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --app-versionCode="1,a"
+--------------------------------
+Packertool57
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/norm/" --app-local-path="noexist.html"
+--------------------------------
+Packertool58
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Contacts,Geolocation"
+--------------------------------
+Packertool59
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts.geolocation"
+--------------------------------
+Packertool60
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="geolocations"
+--------------------------------
+Packertool61
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts:"
+--------------------------------
+Packertool62
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission=":contacts"
+--------------------------------
+Packertool63
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="!@#$%^&*"
+--------------------------------
+Packertool64
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="abc,./{}"
+--------------------------------
+Packertool65
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Geolocation:UndefinedPermission1:UndefinedPermission2"
+--------------------------------
+Packertool66
+--------------------------------
+python make_apk.py --arch="x86" --mode="embedded" --manifest="$PWD/resource/norm/manifest.json"
+--------------------------------
+Packertool67
+--------------------------------
+python make_apk.py --xpk="/non-exist/app.xpk"
+--------------------------------
+Packertool68
+--------------------------------
+python make_apk.py --xpk="$PWD/resource/norm/app.xpk"
+--------------------------------
+Packertool69
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/packer_tool_minify_tests/" --app-local-path="index.html" --app-url="http://www.intel.com"
+--------------------------------
+Packertool70
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="'description'"
+--------------------------------
+Packertool71
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="~!@#$%^&*"
+--------------------------------
+Packertool72
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com" --app-versionCodeBase="a+b"
+--------------------------------
+Packertool73
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool74
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --undefinedOption="undefined"
+--------------------------------
+Packertool5
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="undefined"
+--------------------------------
+Packertool6
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="abc,@%.&:001:[]"
+--------------------------------
+Packertool7
+--------------------------------
+python make_apk.py --name="intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool8
+--------------------------------
+python make_apk.py --name="intel" --package="test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool9
+--------------------------------
+python make_apk.py --name="intel" --package="1234" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool10
+--------------------------------
+python make_apk.py --name="intel" --package="1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool11
+--------------------------------
+python make_apk.py --name="intel" --package="org.Test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool12
+--------------------------------
+python make_apk.py --name="intel" --package="." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool13
+--------------------------------
+python make_apk.py --name="intel" --package=".xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool14
+--------------------------------
+python make_apk.py --name="intel" --package="org." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool15
+--------------------------------
+python make_apk.py --name="intel" --package="org.." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool16
+--------------------------------
+python make_apk.py --name="intel" --package=" org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool17
+--------------------------------
+python make_apk.py --name="intel" --package="org .xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool18
+--------------------------------
+python make_apk.py --name="intel" --package="org. xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool19
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk " --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool20
+--------------------------------
+python make_apk.py --name="intel" --package="_org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool21
+--------------------------------
+python make_apk.py --name="intel" --package="org._xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool22
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw!alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool23
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw@alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool24
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw#alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool25
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw%alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool26
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw^alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool27
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw&alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool28
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw*alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool29
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw'a'lk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool30
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw++alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool31
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw>=alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool32
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw:alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool33
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw\\alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool34
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw<<>>alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool35
+--------------------------------
+python make_apk.py --name="intel" --package="()[]{}.xwallk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool36
+--------------------------------
+python make_apk.py --name="intel" --package="包名.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool37
+--------------------------------
+python make_apk.py --name="intel" --package="org,xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool38
+--------------------------------
+python make_apk.py --name="intel" --package="org.1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool39
+--------------------------------
+python make_apk.py --name="intel" --package="org....xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool40
+--------------------------------
+python make_apk.py --name="intel" --package="nullstring" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool41
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="/non-exist/manifest.json"
+--------------------------------
+Packertool42
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noapplaunch/manifest.json"
+--------------------------------
+Packertool43
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noname/manifest.json"
+--------------------------------
+Packertool44
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noversion/manifest.json"
+--------------------------------
+Packertool45
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="undefined"
+--------------------------------
+Packertool46
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="Landscape"
+--------------------------------
+Packertool47
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation=" landscape"
+--------------------------------
+Packertool48
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="$PWD/resource/norm/图片.png"
+--------------------------------
+Packertool49
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="/non-exist/icon.png"
+--------------------------------
+Packertool50
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="X86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool51
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch=" x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool52
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="undefined" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool53
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="Embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool54
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode=" embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool55
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="undefined" --app-url="http://www.intel.com"
+--------------------------------
+Packertool56
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --app-versionCode="1,a"
+--------------------------------
+Packertool57
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/norm/" --app-local-path="noexist.html"
+--------------------------------
+Packertool58
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Contacts,Geolocation"
+--------------------------------
+Packertool59
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts.geolocation"
+--------------------------------
+Packertool60
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="geolocations"
+--------------------------------
+Packertool61
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts:"
+--------------------------------
+Packertool62
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission=":contacts"
+--------------------------------
+Packertool63
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="!@#$%^&*"
+--------------------------------
+Packertool64
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="abc,./{}"
+--------------------------------
+Packertool65
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Geolocation:UndefinedPermission1:UndefinedPermission2"
+--------------------------------
+Packertool66
+--------------------------------
+python make_apk.py --arch="x86" --mode="embedded" --manifest="$PWD/resource/norm/manifest.json"
+--------------------------------
+Packertool67
+--------------------------------
+python make_apk.py --xpk="/non-exist/app.xpk"
+--------------------------------
+Packertool68
+--------------------------------
+python make_apk.py --xpk="$PWD/resource/norm/app.xpk"
+--------------------------------
+Packertool69
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/packer_tool_minify_tests/" --app-local-path="index.html" --app-url="http://www.intel.com"
+--------------------------------
+Packertool70
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="'description'"
+--------------------------------
+Packertool71
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="~!@#$%^&*"
+--------------------------------
+Packertool72
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com" --app-versionCodeBase="a+b"
+--------------------------------
+Packertool73
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool74
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --undefinedOption="undefined"
+--------------------------------
+Packertool7
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="undefined"
+--------------------------------
+Packertool8
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/packer_tool_minify_tests/manifest.json" --compressor="abc,@%.&:001:[]"
+--------------------------------
+Packertool9
+--------------------------------
+python make_apk.py --name="intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool10
+--------------------------------
+python make_apk.py --name="intel" --package="test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool11
+--------------------------------
+python make_apk.py --name="intel" --package="1234" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool12
+--------------------------------
+python make_apk.py --name="intel" --package="1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool13
+--------------------------------
+python make_apk.py --name="intel" --package="org.Test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool14
+--------------------------------
+python make_apk.py --name="intel" --package="." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool15
+--------------------------------
+python make_apk.py --name="intel" --package=".xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool16
+--------------------------------
+python make_apk.py --name="intel" --package="org." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool17
+--------------------------------
+python make_apk.py --name="intel" --package="org.." --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool18
+--------------------------------
+python make_apk.py --name="intel" --package=" org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool19
+--------------------------------
+python make_apk.py --name="intel" --package="org .xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool20
+--------------------------------
+python make_apk.py --name="intel" --package="org. xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool21
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk " --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool22
+--------------------------------
+python make_apk.py --name="intel" --package="_org.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool23
+--------------------------------
+python make_apk.py --name="intel" --package="org._xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool24
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw!alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool25
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw@alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool26
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw#alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool27
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw%alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool28
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw^alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool29
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw&alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool30
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw*alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool31
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw'a'lk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool32
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw++alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool33
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw>=alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool34
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw:alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool35
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw\\alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool36
+--------------------------------
+python make_apk.py --name="intel" --package="org.xw<<>>alk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool37
+--------------------------------
+python make_apk.py --name="intel" --package="()[]{}.xwallk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool38
+--------------------------------
+python make_apk.py --name="intel" --package="包名.xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool39
+--------------------------------
+python make_apk.py --name="intel" --package="org,xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool40
+--------------------------------
+python make_apk.py --name="intel" --package="org.1234test" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool41
+--------------------------------
+python make_apk.py --name="intel" --package="org....xwalk" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool42
+--------------------------------
+python make_apk.py --name="intel" --package="nullstring" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool43
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="/non-exist/manifest.json"
+--------------------------------
+Packertool44
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noapplaunch/manifest.json"
+--------------------------------
+Packertool45
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noname/manifest.json"
+--------------------------------
+Packertool46
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --manifest="$PWD/resource/noversion/manifest.json"
+--------------------------------
+Packertool47
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="undefined"
+--------------------------------
+Packertool48
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation="Landscape"
+--------------------------------
+Packertool49
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --app-url="http://www.intel.com" --mode="embedded" --orinetation=" landscape"
+--------------------------------
+Packertool50
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="$PWD/resource/norm/图片.png"
+--------------------------------
+Packertool51
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --icon="/non-exist/icon.png"
+--------------------------------
+Packertool52
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="X86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool53
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch=" x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool54
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="undefined" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool55
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="Embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool56
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode=" embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool57
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="undefined" --app-url="http://www.intel.com"
+--------------------------------
+Packertool58
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --app-versionCode="1,a"
+--------------------------------
+Packertool59
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/norm/" --app-local-path="noexist.html"
+--------------------------------
+Packertool60
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Contacts,Geolocation"
+--------------------------------
+Packertool61
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts.geolocation"
+--------------------------------
+Packertool62
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="geolocations"
+--------------------------------
+Packertool63
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="contacts:"
+--------------------------------
+Packertool64
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission=":contacts"
+--------------------------------
+Packertool65
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="!@#$%^&*"
+--------------------------------
+Packertool66
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="abc,./{}"
+--------------------------------
+Packertool67
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="ApplicationDescription" --permission="Geolocation:UndefinedPermission1:UndefinedPermission2"
+--------------------------------
+Packertool68
+--------------------------------
+python make_apk.py --arch="x86" --mode="embedded" --manifest="$PWD/resource/norm/manifest.json"
+--------------------------------
+Packertool69
+--------------------------------
+python make_apk.py --xpk="/non-exist/app.xpk"
+--------------------------------
+Packertool70
+--------------------------------
+python make_apk.py --xpk="$PWD/resource/norm/app.xpk"
+--------------------------------
+Packertool71
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-root="$PWD/resource/packer_tool_minify_tests/" --app-local-path="index.html" --app-url="http://www.intel.com"
+--------------------------------
+Packertool72
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --description="'description'"
+--------------------------------
+Packertool73
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com" --app-versionCodeBase="a+b"
+--------------------------------
+Packertool74
+--------------------------------
+python make_apk.py --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.intel.com"
+--------------------------------
+Packertool75
+--------------------------------
+python make_apk.py --name="intel" --package="org.xwalk.intel" --arch="x86" --mode="embedded" --app-url="http://www.baidu.com" --undefinedOption="undefined"
+--------------------------------
