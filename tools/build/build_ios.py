@@ -26,24 +26,10 @@
 # EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 # Authors:
-#         Wang. Hongjuan <hongjuanx.wang@intel.com>
-
-import unittest
-import os
-import sys
-import commands
-import comm
+#         Zhong, Qiu <zhongx.qiu@intel.com>
 
 
-class TestSampleAppFunctions(unittest.TestCase):
-
-    def test_launch(self):
-        comm.setUp()
-        comm.check_appname()
-        cmd = "adb -s " + comm.device + " shell am start -n "\
-        "org.crosswalkproject.sample/.%sActivity" % comm.app_name
-        print cmd
-        comm.app_launch(cmd, self)
-
-if __name__ == '__main__':
-    unittest.main()
+def packIOS(build_json = None, app_src = None, app_dest = None, app_name = None):
+    # For iOS platform, ignore the building ipa files at present.
+    # Still keep this function if there will be any changes in the future.
+    return True
